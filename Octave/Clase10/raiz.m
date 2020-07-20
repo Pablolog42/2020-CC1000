@@ -1,0 +1,1 @@
+% Busca raíces de ecuaciones linealesfunction x=raiz(a,b)if a==0 warning('ecuacion incorrecta') x=[]; % sin solucioneselse x=[-b/a]; % 1 solucionend

@@ -1,0 +1,1 @@
+function s=suma2(x)    s=0;    n=length(x);        for i=1:n        s=s+x(i);    end    endfunction 

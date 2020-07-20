@@ -1,0 +1,1 @@
+%suma(x): suma los números de vector xfunction s=suma(x)s=0;for numero=x s=s+numero;end
